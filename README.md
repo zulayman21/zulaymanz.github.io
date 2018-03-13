@@ -26,5 +26,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone who's code was used
   * [Loading GIF Icons Vol-1 by Hassan Alkhateeb](https://www.behance.net/hassan_gde)
   * [SVG patterns](http://www.heropatterns.com/)
+  * [Photo by rawpixel.com on Unsplash](https://unsplash.com)
 * Inspiration
 * etc
