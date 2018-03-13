@@ -10,7 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 * [Boxus](https://digitalcanva.com/downloads/boxus-creative-agency-html-template/) - The web template used
-* [Hero paterns](https://heropatterns.com) - SVG patterns
 
 ## Author
 

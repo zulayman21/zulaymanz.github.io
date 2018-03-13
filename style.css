@@ -284,7 +284,7 @@ h1.big-title {
     color: transparent;
   }
   50% {
-    color: black;
+    color: #ffffff;
   }
 }
 
@@ -334,7 +334,7 @@ h1.big-title {
   line-height: 26px;
   max-width: 333px;
   margin: 0 auto;
-  color: #fff;
+  color: #ffffff;
 }
 
 .page-template-page-home .intro-page footer {
